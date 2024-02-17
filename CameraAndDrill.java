@@ -36,16 +36,6 @@ public class CameraAndDrill {
 	}
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	    public static void capturePhoto(String cameraType) {
 		
 		if (cameraType == "Color Camera"){
